@@ -13,6 +13,14 @@
   
 </div>
 
+### Student
+Dual major in physics & mathematics, Konkuk University(2019 ~ 2025)
+
+### Interest
+- Particle Phenomenology / Astroparticle physics
+- Quantum Field Theory(QCD, Effective Fiel Theory)
+- Machine Learnign & Qauntum Machine Learnig
+
 <h3 align="right">Contact</h3>
 <div align="right">
 
