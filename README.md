@@ -4,7 +4,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeechanYi&theme=vue&show_icons=true&hide=prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeechanYi&theme=vue&show_icons=true&hide=prs,contribs)
 </div>
 
 <!--
