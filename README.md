@@ -2,9 +2,9 @@
 
 <h3 align="left">👩‍💻 Github Stats 👩‍💻</h3>
 <div class='parent'>
-  <div class='child'>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeechanYi&theme=vue&show_icons=true&hide=prs,contribs)</div>
-
-  <div class='child'>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeechanYi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeechanYi&theme=vue&show_icons=true&hide=prs,contribs)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeechanYi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
