@@ -12,8 +12,7 @@
 - Machine Learnign & Qauntum Machine Learnig
 
 ### 🧑🏻‍💻 Coding Language 🧑🏻‍💻
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> (<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/></a> <img src="https://img.shields.io/badge/scipy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/></a> <img src="https://img.shields.io/badge/qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white"/></a> <img alt="Static Badge" src="https://img.shields.io/badge/pennylane?style=flat&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64286425%3Fs%3D200%26v%3D4">
-etc.) <br>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> (<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/></a> <img src="https://img.shields.io/badge/scipy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/></a> <img src="https://img.shields.io/badge/qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white"/></a> etc.) <br>
 <img src="https://img.shields.io/badge/latex-008080?style=flat-square&logo=latex&logoColor=white"/></a> <img src="https://img.shields.io/badge/markdown-000000?style=flat-square&logo=markdown&logoColor=white"/></a> <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a> <br>
 
 <h3 align="left">👩‍💻 Github Stats 👩‍💻</h3>
