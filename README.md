@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fffefe,100:41b883&fontColor=273849&text=Hi!%20This%20is%20Heechan.&fontSize=35)
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h3 align="left">👩‍💻 Github Stats 👩‍💻</h3>
 <div align="left">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeechanYi&theme=vue&show_icons=true&hide=prs,contribs)
