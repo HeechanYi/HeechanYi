@@ -1,15 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fffefe,100:41b883&fontColor=273849&text=Hi!%20This%20is%20Heechan.&fontSize=35)
 
 <h3 align="left">👩‍💻 Github Stats 👩‍💻</h3>
-<div align="left">
-  <div>
+<div class='parent'>
+  <div class='child'>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeechanYi&theme=vue&show_icons=true&hide=prs,contribs)</div>
 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeechanYi&theme=vue&show_icons=true&hide=prs,contribs)
-  </div>
-  <dib>
-
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeechanYi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  </dib>
+  <div class='child'>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeechanYi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</div>
 </div>
 
 
