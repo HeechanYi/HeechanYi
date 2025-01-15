@@ -23,6 +23,7 @@
 
 ### Coding Language
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> (<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/scipy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>)
+<img src="https://img.shields.io/badge/latex-008080?style=flat-square&logo=latex&logoColor=white"/></a>
 
 <h3 align="right">Contact</h3>
 <div align="right">
