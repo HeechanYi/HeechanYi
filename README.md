@@ -21,6 +21,9 @@
 - Quantum Field Theory(QCD, Effective Field Theory)
 - Machine Learnign & Qauntum Machine Learnig
 
+### Code Language
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
 <h3 align="right">Contact</h3>
 <div align="right">
 
