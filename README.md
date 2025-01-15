@@ -1,11 +1,12 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fffefe,100:41b883&fontColor=273849&text=Hi!%20This%20is%20Heechan.&fontSize=35)
 
 <h3 align="left">👩‍💻 Github Stats 👩‍💻</h3>
 <div align="left">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeechanYi&theme=vue&show_icons=true&hide=prs,contribs,hide_rank=True)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeechanYi&theme=vue&show_icons=true&hide=prs,contribs)
 </div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeechanYi&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **HeechanYi/HeechanYi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
