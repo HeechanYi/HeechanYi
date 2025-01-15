@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:fffefe,100:a82da8)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:fffefe,100:41b883)
 
 <!--
 **HeechanYi/HeechanYi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
