@@ -14,7 +14,7 @@
 </div>
 
 ### Student
-***(Undergrad)*** Dual major in Physics & Mathematics, Konkuk University(2019 ~ present)
+ - ***(Undergrad.)*** Dual major in Physics & Mathematics, Konkuk University(2019 ~ present)
 
 ### Interest
 - Particle Phenomenology / Astroparticle physics
