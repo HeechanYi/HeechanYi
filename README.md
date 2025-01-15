@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fffefe,100:41b883&fontColor=273849&text=Hi!%20This%20is%20Heechan.&fontSize=35)
 
+
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 <!--
 **HeechanYi/HeechanYi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
