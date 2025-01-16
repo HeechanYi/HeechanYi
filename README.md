@@ -7,7 +7,7 @@
  - ***(Undergrad.)*** Dual major in Physics & Mathematics,in Konkuk University(2019. 3. ~ present)
 
 ### ⭐️ Interest ⭐️
-- Particle Phenomenology / Astroparticle physics
+- Particle Phenomenology(Collider Physics, BSM) / Astroparticle physics(Early Universe, Dark Matters)
 - Quantum Field Theory(QCD, Effective Field Theory)
 - Machine Learnign & Qauntum Machine Learnig
 
@@ -30,19 +30,3 @@
   
 </div>
 
-
-
-<!--
-**HeechanYi/HeechanYi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
