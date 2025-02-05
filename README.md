@@ -7,7 +7,7 @@
  - ***(Undergrad.)*** Dual major in Physics & Mathematics,in Konkuk University(2019. 3. ~ present)
 
 ### ⭐️ Interest ⭐️
-- Particle Phenomenology(Collider Physics, BSM) / Astroparticle physics(Early Universe, Dark Matters)
+- Particle Phenomenology(Theoretical Particle Physics, BSM) / Astroparticle physics(Early Universe, Dark Matters)
 - Quantum Field Theory(QCD, Effective Field Theory)
 - Machine Learnign & Qauntum Machine Learnig
 
