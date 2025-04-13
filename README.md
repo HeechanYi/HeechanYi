@@ -7,9 +7,10 @@
  - ***(Undergrad.)*** Dual major in Physics & Mathematics,in Konkuk University(2019. 3. ~ present)
 
 ### ⭐️ Interest ⭐️
-- Particle Phenomenology(Theoretical Particle Physics, BSM, Collider Physics) / Astroparticle physics(Early Universe, Dark Matters)
-- Quantum Field Theory(QCD, Effective Field Theory)
-- Machine Learnign & Qauntum Machine Learnig(Generative Model / Optimization)
+- Particle Phenomenology(BSM, Collider Physics)
+- Astroparticle physics(Early Universe, Dark Matters)
+- Machine Learning(Generative Model / Model Sturcture)
+- Quantum Algorithms(Quantum Machine Learning / Variational Quantum Algorithms)
 
 ### 🧑🏻‍💻 Computer Languages 🧑🏻‍💻
 Coding : <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> (<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> <img src="https://img.shields.io/badge/qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white"/></a> etc.) <br>
