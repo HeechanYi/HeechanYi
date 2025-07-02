@@ -7,7 +7,7 @@
  - ***(Undergrad.)*** Dual major in Physics & Mathematics,in Konkuk University(2019. 3. ~ present)
 
 ### ⭐️ Interest ⭐️
-- High Energy Physics(Phenomenology)
+- High Energy Physics
 - Machine Learning & Variational Quantum Algorithms Application to Phenomenology Data
 
 ### 🧑🏻‍💻 Computer Languages 🧑🏻‍💻
