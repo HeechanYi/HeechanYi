@@ -4,7 +4,8 @@
 </div>
 
 ### 👨🏻‍🎓 Student 👨🏻‍🎓 
- - ***(Undergrad.)*** Dual major in Physics & Mathematics,in Konkuk University(2019. 3. ~ present)
+ - ***(Undergrad.)*** Dual major in Physics & Mathematics,in Konkuk University(2019. 3. ~ 2025. 8.)
+ - ***(Grad.)*** Major in Physics, in Yonsei University(2025. 8. ~ Present)
 
 ### ⭐️ Interest ⭐️
 - High Energy Physics & Cosmology
