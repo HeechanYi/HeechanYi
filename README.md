@@ -5,7 +5,7 @@
 
 ### 👨🏻‍🎓 Student 👨🏻‍🎓 
  - ***(Undergrad.)*** Dual major in Physics & Mathematics,in Konkuk University(2019. 3. ~ 2025. 8.)
- - ***(Grad.)*** Major in Physics, in Yonsei University(2025. 8. ~ Present)
+ - ***(Grad.)*** Major in Physics, in Yonsei University(2025. 9. ~ Present)
    - [Yonsei HEP-Cosmo](https://hepcosmo.yonsei.ac.kr/)
 
 ### ⭐️ Interest ⭐️
