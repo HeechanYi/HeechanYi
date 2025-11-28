@@ -4,13 +4,14 @@
 </div>
 
 ### 👨🏻‍🎓 Student 👨🏻‍🎓 
- - ***(Undergrad.)*** Dual major in Physics & Mathematics,in Konkuk University(2019. 3. ~ 2025. 8.)
  - ***(Grad.)*** Major in Physics, in Yonsei University(2025. 9. ~ Present)
    - [Yonsei HEP-Cosmo](https://hepcosmo.yonsei.ac.kr/)
+ - ***(Undergrad.)*** Dual major in Physics & Mathematics,in Konkuk University(2019. 3. ~ 2025. 8.)
 
 ### ⭐️ Interest ⭐️
-- High Energy Physics & Cosmology
-- Machine Learning & Quantum Algorithms Application to Phenomenology Data
+- High Energy Physics (Collider)
+- Cosmology (Early Universe Particle Production)
+- Quantum Computer application (Computation & Simulation)
 
 ### 🧑🏻‍💻 Computer Languages 🧑🏻‍💻
 Coding : <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> (<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> <img src="https://img.shields.io/badge/qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white"/></a> etc.) <br>
@@ -24,14 +25,14 @@ Noting : <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square
 
 
 ### 📄 Publications 📄
-Quantum Integration Networks for Efficient Monte Carlo in High-Energy Physics - **Heechan Yi**, Kayoung Ban, Myeonghun Park, Kyoungchul Kong [arXiv:2510.10501](https://arxiv.org/abs/2510.10501) <br>
+- Quantum Integration Networks for Efficient Monte Carlo in High-Energy Physics - **Heechan Yi**, Kayoung Ban, Myeonghun Park, Kyoungchul Kong [arXiv:2510.10501](https://arxiv.org/abs/2510.10501) (2025) <br>
 
 </div>
 
 <h3 align="left">Contact</h3>
 <div align="left">
 
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:huichan320@gmail.com)](mailto:huichan320@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:huichan320@gmail.com)](mailto:hcphysics320@gmail.com)
   
 </div>
 
