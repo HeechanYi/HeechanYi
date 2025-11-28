@@ -10,7 +10,7 @@
 
 ### ⭐️ Interest ⭐️
 - High Energy Physics (Collider)
-- Cosmology (Early Universe Particle Production)
+- Cosmology (Early Universe)
 - Quantum Computer application (Computation & Simulation)
 
 ### 🧑🏻‍💻 Computer Languages 🧑🏻‍💻
