@@ -21,7 +21,11 @@ Noting : <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeechanYi&theme=vue&show_icons=true&hide=prs,contribs)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeechanYi&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+
+### 📄 Publications 📄
+Quantum Integration Networks for Efficient Monte Carlo in High-Energy Physics - **Heechan Yi**, Kayoung Ban, Myeonghun Park, Kyoungchul Kong [arXiv:2510.10501](https://arxiv.org/abs/2510.10501) <br>
+
 </div>
 
 <h3 align="left">Contact</h3>
