@@ -17,16 +17,13 @@
 Coding : <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> (<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> <img src="https://img.shields.io/badge/qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white"/></a> etc.) <br>
 Noting : <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a> <img src="https://img.shields.io/badge/latex-008080?style=flat-square&logo=latex&logoColor=white"/></a> <img src="https://img.shields.io/badge/markdown-000000?style=flat-square&logo=markdown&logoColor=white"/></a>  <br>
 
-### 📚 Github Stats 📚
-<div align='left'>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeechanYi&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### 📄 Publications 📄
 - Quantum Integration Networks for Efficient Monte Carlo in High-Energy Physics - **Heechan Yi**, Kayoung Ban, Myeonghun Park, Kyoungchul Kong [arXiv:2510.10501](https://arxiv.org/abs/2510.10501) (2025) <br>
 
-</div>
+
+### 📚 Talks 📚
+- Invited Talk of **"Quantum Approach to High Energy Physics - Quantum Sensing"** at *The 22nd Yonsei-Saga partnership program (October 27. ~ 31. , 2025)*
+- Poster Session of **"Quantum Integration Networks for Efficient Monte Carlo in High-Energy Physics"** at *2025 KPS Spring Meeting (April 23. ~ 25. , 2025)*
 
 <h3 align="left">Contact</h3>
 <div align="left">
