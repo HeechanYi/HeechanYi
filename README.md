@@ -22,6 +22,7 @@ Noting : <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square
 
 
 ### 📚 Talks 📚
+- Invited Talk of **"Quantum Integration Networks for Efficient Monte Carlo in High-Energy Physics"** at *The 2nd "AI+HEP in East Asia" workshop (January 19. ~ 23. , 2026)*
 - Invited Talk of **"Quantum Approach to High Energy Physics - Quantum Sensing"** at *The 22nd Yonsei-Saga partnership program (October 27. ~ 31. , 2025)*
 - Poster Session of **"Quantum Integration Networks for Efficient Monte Carlo in High-Energy Physics"** at *2025 KPS Spring Meeting (April 23. ~ 25. , 2025)*
 
