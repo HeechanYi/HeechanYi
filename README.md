@@ -9,9 +9,9 @@
  - ***(B.S.)*** Dual major in Physics & Mathematics,in Konkuk University(2019. 3. ~ 2025. 8.)
 
 ### ⭐️ Interest ⭐️
-- High Energy Physics (Collider)
-- Cosmology (Early Universe)
-- Quantum Computer application (Computation & Simulation)
+- High Energy Physics
+- Cosmology 
+- Quantum Computer & Machine Learning (Computation & Simulation)
 
 ### 🧑🏻‍💻 Computer Languages 🧑🏻‍💻
 Coding : <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> (<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> <img src="https://img.shields.io/badge/qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white"/></a> etc.) <br>
