@@ -11,7 +11,8 @@
 ### ⭐️ Interest ⭐️
 - High Energy Physics
 - Cosmology 
-- Quantum Computer & Machine Learning (Computation & Simulation)
+- Quantum Computation & Sensing
+- Machine Learning
 
 ### 🧑🏻‍💻 Computer Languages 🧑🏻‍💻
 Coding : <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> (<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> <img src="https://img.shields.io/badge/qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white"/></a> etc.) <br>
