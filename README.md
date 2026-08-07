@@ -4,13 +4,12 @@
 </div>
 
 ### 👨🏻‍🎓 Student 👨🏻‍🎓 
- - ***(M.S.)*** Major in Physics, in Yonsei University(2025. 9. ~ Present)
+ - ***(Integrated)*** Major in Physics, in Yonsei University(2025. 9. ~ Present)
    - [Yonsei HEP-Cosmo](https://hepcosmo.yonsei.ac.kr/)
  - ***(B.S.)*** Dual major in Physics & Mathematics,in Konkuk University(2019. 3. ~ 2025. 8.)
 
 ### ⭐️ Interest ⭐️
-- High Energy Physics
-- Cosmology 
+- High Energy Physics & Cosmology
 - Quantum Computation & Sensing
 - Machine Learning
 
@@ -20,17 +19,20 @@ Noting : <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square
 
 ### 📄 Publications 📄
 - Quantum Integration Networks for Efficient Monte Carlo in High-Energy Physics - **Heechan Yi**, Kayoung Ban, Myeonghun Park, Kyoungchul Kong [arXiv:2510.10501](https://arxiv.org/abs/2510.10501) (2025) <br>
+- High-Frequency Gravitational Wave Detection with Superconducting Qubits - **Heechan Yi**, Seong Chan Park, Kyoungchul Kong, Myeonghun Park [arXiv:2608.02733](https://arxiv.org/abs/2608.02733) (2026) <br>
 
 
 ### 📚 Talks 📚
+- Invited Talk of **"High-Frequency Gravitational Wave Detection with Superconducting Qubits"** at [*PARTIQAL 2026 Particle Physics, Quantum Information And Machine Learning (July 13. ~ 17, 2026)](https://indico.global/event/17227/)*
+- Invited Talk of **"High-Frequency Gravitational Wave Detection with Superconducting Qubits"** at [*2026 CTPU-CGA−Yonsei Joint School and Workshop (Feburary 25. ~ 27, 2026)](https://indico.ibs.re.kr/event/1146/overview)*
 - Invited Talk of **"Quantum Integration Networks for Efficient Monte Carlo in High-Energy Physics"** at [*The 2nd "AI+HEP in East Asia" workshop (January 19. ~ 23. , 2026)](https://conference-indico.kek.jp/event/355/overview)*
 - Invited Talk of **"Quantum Approach to High Energy Physics - Quantum Sensing"** at [*The 22nd Yonsei-Saga partnership program (October 27. ~ 31. , 2025)*](https://sites.google.com/view/yonsei-saga-22nd/%E3%83%9B%E3%83%BC%E3%83%A0)
 - Poster Session of **"Quantum Integration Networks for Efficient Monte Carlo in High-Energy Physics"** at [*2025 KPS Spring Meeting (April 23. ~ 25. , 2025)*](https://www.kps.or.kr/conference/event/index.php?cfrid=24)
 
 <h3 align="left">Contact</h3>
 <div align="left">
-
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:huichan320@gmail.com)](mailto:hcphysics320@gmail.com)
+  
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hcphysics320@gmail.com)](mailto:hcphysics320@gmail.com)
   
 </div>
 
