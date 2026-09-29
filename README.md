@@ -20,7 +20,7 @@ Noting : <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square
 ### 📄 Publications 📄
 - High-Frequency Gravitational Wave Detection with Superconducting Qubits - **Heechan Yi**, Seong Chan Park, Kyoungchul Kong, Myeonghun Park [arXiv:2608.02733](https://arxiv.org/abs/2608.02733) (2026) <br>
 - Quantum Integration Networks for Efficient Monte Carlo in High-Energy Physics - **Heechan Yi**, Kayoung Ban, Myeonghun Park, Kyoungchul Kong [arXiv:2510.10501](https://arxiv.org/abs/2510.10501) (2025) <br>
-- Hybrid quantum-classical approach for combinatorial problems at hadron colliders -Jacob L. Scott, Zhongtian Dong, Taejoon Kim, Kyoungchul Kong, Myeonghun Park, **Heechan Yi**, Willie Aboumrad, Ananth Kaushik, Martin Roetteler [Scientific Reports 16, 30089 (2026)](https://www.nature.com/articles/s41598-026-69946-w) [arXiv:2410.22417](https://arxiv.org/abs/2410.22417) (2024) <br>
+- Hybrid quantum-classical approach for combinatorial problems at hadron colliders -Jacob L. Scott, Zhongtian Dong, Taejoon Kim, Kyoungchul Kong, Myeonghun Park, **Heechan Yi**, Willie Aboumrad, Ananth Kaushik, Martin Roetteler [Sci. Rep. 16, 30089 (2026)](https://www.nature.com/articles/s41598-026-69946-w) [arXiv:2410.22417](https://arxiv.org/abs/2410.22417) (2024) <br>
 
 ### 📚 Talks 📚
 - Invited Talk of **"High-Frequency Gravitational Wave Detection with Superconducting Qubits"** at [*The 14th KIAS Workshop jointly held with the 6th AEI Workshop (Sep. 28 ~ Oct. 2, 2026)*](https://indico.cern.ch/event/1712261/)
