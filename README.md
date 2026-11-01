@@ -23,6 +23,7 @@ Noting : <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square
 - Hybrid quantum-classical approach for combinatorial problems at hadron colliders -Jacob L. Scott, Zhongtian Dong, Taejoon Kim, Kyoungchul Kong, Myeonghun Park, **Heechan Yi**, Willie Aboumrad, Ananth Kaushik, Martin Roetteler [Sci. Rep. 16, 30089 (2026)](https://www.nature.com/articles/s41598-026-69946-w) [arXiv:2410.22417](https://arxiv.org/abs/2410.22417) (2024) <br>
 
 ### 📚 Talks 📚
+- Invited Talk of **"High-Frequency Gravitational Wave Detection with Superconducting Qubits"** at [*2026 KPS Fall Meeting(Oct. 20 ~ Oct. 24, 2026)*](https://www.kps.or.kr/conference/event/content/program/search_result_session.php?id=2724#)
 - Invited Talk of **"High-Frequency Gravitational Wave Detection with Superconducting Qubits"** at [*The 14th KIAS Workshop jointly held with the 6th AEI Workshop (Sep. 28 ~ Oct. 2, 2026)*](https://indico.cern.ch/event/1712261/)
 - Poster Session of **"Quantum Integration Networks for Efficient Monte Carlo in High-Energy Physics"** at [*AIFAI Summer Workshop 2026 (August 10. ~ 14, 2026)](https://iaifi.org/summer-workshop.html)
 - Invited Talk of **"High-Frequency Gravitational Wave Detection with Superconducting Qubits"** at [*PARTIQAL 2026 Particle Physics, Quantum Information And Machine Learning (July 13. ~ 17, 2026)*](https://indico.global/event/17227/)
